@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resouce/Arrow.png</file>
+        <file>resouce/AutoCAD.png</file>
+        <file>resouce/brush.png</file>
+        <file>resouce/ellipse.png</file>
+        <file>resouce/hand.png</file>
+        <file>resouce/pen.png</file>
+        <file>resouce/polygon.png</file>
+        <file>resouce/rectangle.png</file>
+        <file>resouce/Segment.png</file>
+        <file>resouce/OPEN.png</file>
+        <file>resouce/save.png</file>
+        <file>resouce/new-page.png</file>
+        <file>resouce/ic_search_reduce.png</file>
+        <file>resouce/magnify.png</file>
+        <file>resouce/trash.png</file>
+        <file>resouce/horizontal-distance.png</file>
+        <file>resouce/vertical-distance.png</file>
+    </qresource>
+</RCC>
